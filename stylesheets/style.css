@@ -1,0 +1,9 @@
+h1 {
+    font-size: 25px;
+    color: #ff99ff;
+  }
+@import "layout.css";/* макет */
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700|PT+Sans:400,400i,700,700i&amp;subset=cyrillic');
+@import "reset.css";/* сбор настроек */
+@import "sidebar.css";/* панель – боковая/верхней */
+@import "content.css";/* контент / содержимое */
