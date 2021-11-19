@@ -1,0 +1,21 @@
+/* Навигация */
+nav {
+  width: 100%;
+  background: #f9f9f9;
+  width: 500px;
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  height: 100vh;
+  display: block;
+}
+nav a{
+  text-decoration: none;
+}
+.sidebar{
+  padding-left: 0px;
+}
